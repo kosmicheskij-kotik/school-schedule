@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.196,F:\Studying\School Shedule\Shedule.pas=C:\Users\Alexey\Documents\Embarcadero\Studio\Projects\Shedule.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.034,F:\Studying\School Shedule\Shedule.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.906,F:\Studying\School Shedule\Auth.dfm=F:\Studying\School Shedule\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.359,C:\Users\Alexey\Documents\Embarcadero\Studio\Projects\Shedule.pas=C:\Users\Alexey\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.019,=F:\Studying\School Shedule\UsersUnit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.272,=F:\Studying\School Shedule\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.853,F:\Studying\School Shedule\AuthorizationUnitS.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.906,F:\Studying\School Shedule\Auth.pas=F:\Studying\School Shedule\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.515,F:\Studying\School Shedule\UserComment.dfm=F:\Studying\School Shedule\Unit5.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.652,F:\Studying\School Shedule\UserComplaints.pas=F:\Studying\School Shedule\UserComment.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.081,=F:\Studying\School Shedule\AuthorizationUnitS.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.196,F:\Studying\School Shedule\Shedule.dfm=C:\Users\Alexey\Documents\Embarcadero\Studio\Projects\Shedule.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.304,F:\Studying\School Shedule\MainShedule.pas=F:\Studying\School Shedule\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.411,F:\Studying\School Shedule\School_Shedule.dproj=C:\Users\Alexey\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.591,F:\Studying\School Shedule\HomeWorkEditing.dfm=F:\Studying\School Shedule\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.591,F:\Studying\School Shedule\HomeWorkEditing.pas=F:\Studying\School Shedule\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.359,C:\Users\Alexey\Documents\Embarcadero\Studio\Projects\Shedule.dfm=C:\Users\Alexey\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.515,F:\Studying\School Shedule\UserComment.pas=F:\Studying\School Shedule\Unit5.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.652,F:\Studying\School Shedule\UserComplaints.dfm=F:\Studying\School Shedule\UserComment.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.494,=F:\Studying\School Shedule\Unit5.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.265,=C:\Users\Alexey\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.358,=F:\Studying\School Shedule\Marks.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.918,=F:\Studying\School Shedule\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.304,F:\Studying\School Shedule\MainShedule.dfm=F:\Studying\School Shedule\Unit3.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.535,=C:\Users\Alexey\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.785,=C:\Users\Alexey\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.624,=F:\Studying\School Shedule\Unit3.pas</Transaction>
+  </Transactions>
+</BorlandProject>
